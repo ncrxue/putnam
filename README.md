@@ -2,7 +2,7 @@
 layout: default
 title: "Putnam Practice"
 description: "This site is where I post my solutions to problems from CMU's Putnam Seminar."
-permalink: ""
+permalink: /
 ---
 
 ## [CMU Putnam Seminar Webpage](https://www.math.cmu.edu/~ploh/2024-putnam.shtml)
