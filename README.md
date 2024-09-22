@@ -1,1 +1,1 @@
-# [https://www.math.cmu.edu/~ploh/2024-putnam.shtml](CMU Putnam Seminar link)
+## [CMU Putnam Seminar link](https://www.math.cmu.edu/~ploh/2024-putnam.shtml)
