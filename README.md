@@ -1,1 +1,1 @@
-# putnam
+# [https://www.math.cmu.edu/~ploh/2024-putnam.shtml](CMU Putnam Seminar link)
