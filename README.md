@@ -9,8 +9,12 @@ permalink: /
 
 ### Summer / Week 0
 - Sep 1: [Intro #1](https://drive.google.com/file/d/12NjbASO1hHA_cs-UQoSatClxSTbMSA6T/view?usp=drive_link)
-- Sep 21: Polynomials
-- Sep 22: TBD
 
 ### Week 1
-- Sep 23: TBD
+- Proof by Contradiction: [Problems 1-2](https://drive.google.com/file/d/1zJ-NIh4SF4oXbAYCo0kl4poooGz_DQGC/view?usp=sharing)
+
+### Week 2
+- Proof by Induction: [Problem 3](https://drive.google.com/file/d/18kWpvQgg8x7b9uk09WCrSkuITMLZ7w7l/view?usp=sharing)
+
+### Week 3
+- Polynomials: TBD
