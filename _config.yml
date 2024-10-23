@@ -21,7 +21,7 @@
 title: Putnam Practice
 # email: nxue2004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is where I post my solutions to problems from CMU's Putnam Seminar.
+  This site is where I post my solutions to problems from my university's Problem Solving Seminar.
 baseurl: "/putnam" # the subpath of your site, e.g. /blog
 url: "https://ncrxue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
