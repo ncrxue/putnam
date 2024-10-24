@@ -20,7 +20,7 @@ permalink: /
 - Polynomials: I got a bit lazy that week...
 
 ### Week 4
-- Polynomials (again): Problem 5 - P(P'(x)) = P'(P(x))
+- Polynomials (again): [Problem 5](https://drive.google.com/file/d/12AsHjZg9XblYv9GW-9GICs7DpWcfF1VA/view?usp=sharing)
 
 ### Week 5
 - Calculus: in-progess...
