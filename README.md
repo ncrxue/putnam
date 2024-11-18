@@ -23,5 +23,12 @@ permalink: /
 - Polynomials (again): [Problem 5](https://drive.google.com/file/d/12AsHjZg9XblYv9GW-9GICs7DpWcfF1VA/view?usp=sharing)
 
 ### Week 5
-- Calculus: in-progess...
+- Calculus: [Problem 3](https://drive.google.com/file/d/1t00GgDczyOn7Vv0ymEuTWmSZ3fWU31ce/view?usp=sharing)
 - [Problem of the Fortnight #3](https://drive.google.com/file/d/18Jm7if1L3cvq4VNzReVsUUpa0n8S56mw/view?usp=sharing) (Note: this is actually a re-write of Week 1 Problem 2, since the current Problem of the Fortnight happened to be the exact same problem. What a coincidence!)
+
+### Week 7
+- Calculus (again): [Problem 3](https://drive.google.com/file/d/1LoTSG5cfd7e-CtBdC6tRhLv0M-t64aSU/view?usp=sharing)
+- [Problem of the Fortnight #4](https://drive.google.com/file/d/1_o5lsVLMhFihSKmd10j1Q8HI9tOHvt-A/view?usp=sharing)
+
+### Week 8
+- Yet another week of Calculus: [Problem 1](https://drive.google.com/file/d/1_w0TK0CyPmT1uiqcL9AosNwWpWA1Qw6d/view?usp=sharing)
